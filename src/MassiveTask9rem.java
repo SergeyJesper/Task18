@@ -11,8 +11,8 @@ public class MassiveTask9rem {
 
             for (a = 0; a < start; a++) {
                 pr = a + 1;
-                System.out.print("Введите " + pr + " элемент массива: ");
-                massive[a] = in.nextInt();
+                 System.out.print("Введите " + pr + " элемент массива: ");
+                  massive[a] = in.nextInt();
             }
 
             System.out.println("Массив умножить на 2:");
